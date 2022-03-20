@@ -1,5 +1,5 @@
 # Community Challenges - Baleiro
-As informações do desafio podem ser encontradas no arquivo `info.md`
+As informações do desafio podem ser encontradas no arquivo [`info.md`](/001-baleiro/info.md)
 
 ## Participantes
 - <!--- Discord ID do primeiro membro --->

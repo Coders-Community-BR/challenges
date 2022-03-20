@@ -17,7 +17,7 @@ Community Challenges é uma série de **competições de desenvolvimento de soft
 
 ### 📝 Como participar
 - Realizar um **fork** do projeto [Challenges](https://github.com/Coders-Community-BR/challenges).
-- Informar os **Discord IDs** dos participantes no arquivo `001-baleiro/README.md`.
+- Informar os **Discord IDs** dos participantes no arquivo [`001-baleiro/README.md`](/001-baleiro/README.md).
 
 ### ⚖ Regras
 - O código-fonte analisado será **apenas** o que estiver na branch `master` ou `main` do fork realizado.
@@ -27,7 +27,7 @@ Community Challenges é uma série de **competições de desenvolvimento de soft
 ### 🧐 Critérios de classificação
 1. Atendimento aos **requisitos** do desafio.
 2. Adequação do código-fonte a princípios estabalecidos pelo **Clean Code**.
-3. **Clareza e utilidade** das informações oferecidas no `README.md`.
+3. **Clareza e utilidade** das informações oferecidas no [`README.md`](/001-baleiro/README.md).
 
 ### 📜 Problema
 Zeca Baleiro é um **vendedor de balas** em Juazeiro, na Bahia. Todos os dias, às 7h da manhã, Zeca monta sua pequena banca em frente ao mais movimentado ponto de ônibus da cidade, vendendo centenas de doces e aumentando ainda mais sua popularidade entre os moradores. Apesar da simplicidade, Zeca é um homem de muitas ambições, e como próximo passo decide investir em um **sistema para controlar o fluxo** de seu negócio.
