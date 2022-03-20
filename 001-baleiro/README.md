@@ -1,4 +1,4 @@
-# Community Challenges - Baleiro
+# 🍭 Community Challenges - Baleiro
 As informações do desafio podem ser encontradas no arquivo [`info.md`](/001-baleiro/info.md)
 
 ## Participantes
