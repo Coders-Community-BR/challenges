@@ -4,9 +4,9 @@ Community Challenges é uma série de **competições de desenvolvimento de soft
 ## 🍭 Edição 001 - Baleiro
 
 ### 📅 Datas
-- **Início:** 01 de abril de 2022
-- **Prazo para envio:** 30 de abril de 2022, 23:59h de Brasília
-- **Divulgação dos resultados:** 14 de maio de 2022
+- **Início:** 22 de março de 2022
+- **Prazo para envio:** 12 de abril de 2022, 23:59h de Brasília
+- **Divulgação dos resultados:** até 26 de abril de 2022
 
 ### 🤝 Formato
 - Os participantes devem se organizar em **duplas**.
