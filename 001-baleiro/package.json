@@ -1,0 +1,21 @@
+{
+  "name": "001-baleiro",
+  "version": "1.0.0",
+  "description": "As informações do desafio podem ser encontradas no arquivo [`info.md`](/001-baleiro/info.md)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
+    "typescript": "^4.6.3"
+  }
+}
